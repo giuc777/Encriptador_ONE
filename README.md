@@ -1,2 +1,2 @@
-# Encriptador_ONE
-Un encriptador con diferentes cifrados, integrado modo oscuro y light
+# Proyecto_Encriptador_Texto
+Un encriptador de texto, que cifra y decifra texto en diferentes metodos de encriptación
